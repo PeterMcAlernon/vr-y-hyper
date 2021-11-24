@@ -21,6 +21,8 @@ body,html {
 header {
     background-color: #191a19;
     padding: 20px 30px;
+	width 75%;
+	margin: auto;
 }
 nav {
     display: inline-block;
