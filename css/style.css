@@ -113,6 +113,10 @@ address {
 	width: 50%;
     margin: auto;
 }
+#navstyle {
+	width: 75%;
+	margin: auto;
+}
 body > section {
     max-width: 1000px;
     margin: auto;
