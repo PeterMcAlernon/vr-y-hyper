@@ -54,10 +54,7 @@ main {
 	float: left;
 	width: 60%;
 }
-aside {
-	float: right;
-	width: 30%;
-}
+
 article {
     border-bottom: 2px dotted #999;
     padding-bottom: 20px;
@@ -74,7 +71,7 @@ main section {
 	
 }
 footer {
-	background: #AEC6CF;
+	background:  #191a19;
 	max-width: 1000px;
 	margin: auto;
 	clear: both;
@@ -86,10 +83,7 @@ footer p {
 address {
     padding: 10px 20px 30px 10px;
 }
-aside > div {
-	margin: 10px auto;
-	background: #AEC6CF;
-	min-height: 100px;
+
 }
 #logo {
     display: inline-block;
