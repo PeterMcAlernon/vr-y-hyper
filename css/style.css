@@ -26,6 +26,9 @@ width: 75%;
 }
 nav {
     display: inline-block;
+	width: 75%;
+	margin: auto;
+	
 }
 nav ul li a {
     background: #191a19;
@@ -43,6 +46,7 @@ nav ul li a:hover {
 }
 nav ul li {
     display: inline-block;
+	width: 75%;
     margin: auto;
 }
 nav ul {
@@ -90,6 +94,7 @@ footer p {
 	padding: 20px;
 }
 address {
+	colour: #d0cfd0;
     padding: 10px 20px 30px 10px;
 }
 
@@ -103,6 +108,7 @@ address {
 }
 #logo img {
     vertical-align: middle;
+	width: 75%;
     margin: auto;
 }
 body > section {
