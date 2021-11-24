@@ -19,9 +19,9 @@ body,html {
 	 
 }
 header {
-    background-color: #191a19
+    background-color: #191a19;
     padding: 20px 30px;
-
+width: 75%;
    margin: auto;
 }
 nav {
@@ -34,7 +34,7 @@ nav ul li a {
     text-decoration: none;
     font-weight: bold;
     color: #6e2b8f;
-	width 500px
+	width 75%;
 	margin: auto;
 	
 }
