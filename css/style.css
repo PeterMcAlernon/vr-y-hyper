@@ -128,14 +128,12 @@ body > section {
 * {
   box-sizing: border-box;
 }
-#table{
-	allign: left;
-}
+
 <!-- Code by W3codegenerator.com -->
 <!-- CSS Code -->
 <style type="text/css" scoped>
 table.GeneratedTable {
-   width:100%;
+   width:75%;
    background-color:#191a19;
    font-family:Tahoma, sans-serif;
    border-collapse:collapse;
