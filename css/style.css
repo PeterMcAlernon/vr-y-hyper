@@ -141,7 +141,7 @@ table.GeneratedTable {
    border-color:#6e2b8f;
    border-style:solid;
    color:#d0cfd0;
-	allign: left;
+	text-allign:left;
 }
 
 table.GeneratedTable td, table.GeneratedTable th {
