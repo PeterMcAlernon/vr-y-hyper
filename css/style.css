@@ -94,12 +94,12 @@ address {
     display: inline-block;
     vertical-align: middle;
     font-size: 30px;
-    margin-right: 75px;
+    margin: auto;
     color: #FFF;
 }
 #logo img {
     vertical-align: middle;
-    margin-right: 10px;
+    margin: auto;
 }
 body > section {
     max-width: 1000px;
