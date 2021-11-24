@@ -16,7 +16,7 @@ input,select{vertical-align:middle}
 
 body,html {
 	background-color: #191a19;
-	color: d0cfd0; 
+	 
 }
 header {
     background-color: #191a19
@@ -54,16 +54,19 @@ nav ul {
 main {
 	float: left;
 	width: 60%;
+	color: d0cfd0;
 }
 
 article {
     border-bottom: 2px dotted #999;
     padding-bottom: 20px;
     margin-bottom: 20px;
+	colour:d0cfd0
 }
 article h2 {
     font-weight: normal;
     margin-bottom: 12px;
+	color: d0cfd0;
 }
 article p {
 	
