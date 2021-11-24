@@ -104,6 +104,7 @@ address {
     display: inline-block;
     vertical-align: middle;
     font-size: 30px;
+	width: 50%;
     margin: auto;
     color: #FFF;
 }
