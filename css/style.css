@@ -27,8 +27,7 @@ header {
 }
 nav {
     display: inline-block;
-	width 75%;
-	margin: auto;
+	
 	
 	
 }
@@ -47,6 +46,8 @@ nav ul li a:hover {
 }
 nav ul li {
     display: inline-block;
+	width 75%;
+	margin: auto;
 
 }
 nav ul {
