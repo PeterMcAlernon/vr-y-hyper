@@ -21,7 +21,7 @@ body,html {
 header {
     background-color: #191a19;
     padding: 20px 30px;
-	width: 75%;
+	width: 50%;
 	margin: auto;
 
 }
@@ -107,7 +107,7 @@ address {
 }
 #logo img {
     vertical-align: middle;
-	width: 75%;
+	width: 50%;
     margin: auto;
 }
 body > section {
