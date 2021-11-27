@@ -90,12 +90,12 @@ main section {
 }
 form{
 input[type=text]{
+	background color: #6e2b8f;
+	color: #d0cfd0;
 	width: 75%;
   	padding: 12px 20px;
   	margin: 8px 0;
   	box-sizing: border-box;
-	background color: #6e2b8f;
-	color: #d0cfd0;
 	}
 	}
 footer {
