@@ -27,8 +27,7 @@ header {
 }
 h1{
 	color:#6e2b8f;
-	width:100%;
-	margin: auto;
+	text-allign:center;
 }
 nav {
     display: inline-block;
