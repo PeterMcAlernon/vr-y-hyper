@@ -116,7 +116,7 @@ address {
 #navstyle {
 	width: 75%;
 	margin: auto;
-	position: fixed;
+	
 }
 body > section {
     max-width: 1000px;
