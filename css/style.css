@@ -123,13 +123,15 @@ address {
 	margin: auto;
 	
 }
-#enquiry{
+form{
+	input[type=text]{
 	  width: 75%;
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
 	background color: #6e2b8f;
 		color: #d0cfd0;
+	}
 }
 body > section {
     max-width: 1000px;
