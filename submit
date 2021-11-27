@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://www.belfastmet.ac.uk/" />
+    <title>Contact Us</title>
+    <meta name="description" content="Contact Details and Form for VR-Y-Hyper">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+	<header>
+		<div id="logo"><img src="logo/logo.png"></div>
+	</header>
+			<section id= navstyle>
+		<nav>  
+			<ul>
+				<li><a href="index.html">Home</a>
+				<li><a href="vrware.html">VR Hardware</a>
+				<li><a href="vrcomp.html">VR Competition</a>
+				<li><a href="vrtday.html">VR Today</a>
+				<li><a href="webxr.html">Web XR</a>
+				<li><a href="serv.html">Our Services</a>
+				<li><a href="ctact.html">Contact Us</a>
+			</ul>
+		</nav>
+	</section>
+	<section>
+  <h2> Thank You for your enquiry a member of our Team will be in touch soon </h2>
+			
+
+
+    
+    
+
+  
+
+	</section>
+	<footer>
+		<p>&copy; VR-Y-HYPER <a href="https://petermcalernon.github.io/vr-y-hyper/" target="_blank" rel="nofollow">Back to Home</a></p>
+		<address>
+		 <a href="mailto:me@example.com">Contact Us</a>
+		</address>
+	</footer>
+
+
+</body>
+
+</html>
