@@ -25,6 +25,11 @@ header {
 	margin: auto;
 
 }
+h1{
+	color:#6e2b8f;
+	width:100%;
+	margin: auto;
+}
 nav {
     display: inline-block;
 	
