@@ -88,6 +88,15 @@ article p {
 main section {
 	
 }
+form{
+input[type=text]{
+	width: 75%;
+  	padding: 12px 20px;
+  	margin: 8px 0;
+  	box-sizing: border-box;
+	background color: #6e2b8f;
+	color: #d0cfd0;
+	}
 footer {
 	background-color:  #191a19;
 	color: #d0cfd0;
@@ -123,15 +132,7 @@ address {
 	margin: auto;
 	
 }
-form{
-	input[type=text]{
-	  width: 75%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
-	background color: #6e2b8f;
-		color: #d0cfd0;
-	}
+
 }
 body > section {
     max-width: 1000px;
