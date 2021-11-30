@@ -35,7 +35,7 @@ margin-bottom: 10px;
 font-size: 17px;
 color: #d0cfd0;
 border: 2px,solid;
-background-color: 
+background-color:#191a19;  
 }  
 .searchbox button {  
   
@@ -43,13 +43,13 @@ padding: 8px;
 margin-top: 8px;  
 margin-right: 10px;
 margin-bottom: 10px;
-background: #6e2b8f;  
+background:#191a19;  
 font-size: 20px;  
 border: none;  
 cursor: pointer;  
 }  
 .searchbox button:hover {  
-background: #d0cfd0;  
+background: #6e2b8f;  
 } 
 h1{
 	text-allign:center;
