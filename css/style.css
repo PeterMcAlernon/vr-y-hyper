@@ -121,21 +121,7 @@ main section {
 }
 
 	}
-footer {
-	background-color: #191a19;
-	color: #d0cfd0;
-	max-width: 1000px;
-	margin: auto;
-	clear: both;
-	text-align: right;
-}
-footer p {
-	padding: 20px;
-}
-address {
-	colour: #d0cfd0;
-    padding: 10px 20px 30px 10px;
-}
+
 
 }
 #logo {
