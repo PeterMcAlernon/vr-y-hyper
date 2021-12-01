@@ -121,10 +121,11 @@ main section {
 }
 form {
 	input[type=text] {
-  width: 75%
+  width: 75%;
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
+}
 }
 		
 	
