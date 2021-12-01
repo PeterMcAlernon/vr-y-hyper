@@ -197,6 +197,7 @@ table.GeneratedTable thead {
   background-color::#191a19;
 }
 .fa {
+float: left;
   padding: 20px;
   font-size: 30px;
   width: 50px;
@@ -206,6 +207,7 @@ table.GeneratedTable thead {
 .fa-facebook {
   background: #3B5998;
   color: white;
+
 }
 .fa-twitter {
   background: #55ACEE;
