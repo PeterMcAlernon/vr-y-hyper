@@ -119,6 +119,15 @@ article p {
 main section {
 	
 }
+form {
+	input[type=text] {
+  width: 75%
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+		
+	
 footer {
 	background: #191a19;
 	max-width: 1000px;
