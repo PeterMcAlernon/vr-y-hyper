@@ -166,17 +166,17 @@ address {
 	
 
 #logo {
-    display: inline-block;
-    vertical-align: middle;
-    font-size: 30px;
-	width: 50%;
-    margin: auto;
-    color: #FFF;
+display: inline-block;
+vertical-align: middle;
+font-size: 30px;
+width: 50%;
+margin: auto;
+color: #FFF;
 }
 #logo img {
-    vertical-align: middle;
-	width: 50%;
-    margin: auto;
+vertical-align: middle;
+width: 75%;
+margin: auto;
 }
 #navstyle {
 	max-width: 1000px;
