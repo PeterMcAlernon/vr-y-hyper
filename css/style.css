@@ -178,6 +178,9 @@ address {
     margin: auto;
 }
 #navstyle {
+	max-width: 1000px;
+   	margin: auto;
+	border: none;
 	width: 75%;
 	margin: auto;
 	
