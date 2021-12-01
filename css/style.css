@@ -133,7 +133,7 @@ input[type=button], input[type=submit], input[type=reset] {
   border: none;
   color: #d0cfd0;
   padding: 16px 32px;
-  text-decoration: none;
+  text-decoration: bold;
   margin: 4px 2px;
   cursor: pointer;
 }
