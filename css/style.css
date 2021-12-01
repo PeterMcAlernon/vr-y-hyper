@@ -35,7 +35,8 @@ margin-bottom: 10px;
 font-size: 17px;
 color: #d0cfd0;
 border: none;
-background-color:#191a19;  
+background-color:#191a19;
+width: 75%;
 }  
 .searchbox button {  
   
@@ -121,9 +122,6 @@ main section {
 }
 
 .form { 
-input[type=text] {
-width: 75%;
-	}
  padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
