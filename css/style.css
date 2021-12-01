@@ -120,8 +120,7 @@ main section {
 	
 }
 
-.form{ width: 75%; }
-input[type=text] {
+.form{ width: 75%; 
  padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
