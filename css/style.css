@@ -65,12 +65,13 @@ nav {
 }
 nav ul li a {
     background: #191a19;
-    padding: 2px 10px;
+    padding-bottom: 10px;
+	padding-right: 4px;
     font-size: 20px;
     text-decoration: none;
     font-weight: bold;
     color: #de9bf4;
-	allign: center;
+	
 	
 	
 }
