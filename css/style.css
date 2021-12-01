@@ -198,4 +198,12 @@ table.GeneratedTable thead {
   text-align: center;
   text-decoration: none;
 }
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
 </style>
